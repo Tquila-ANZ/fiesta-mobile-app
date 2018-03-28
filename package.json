@@ -16,7 +16,7 @@
     "babel-jest": "21.2.0",
     "babel-preset-react-native": "4.0.0",
     "firebase": "^4.9.0",
-    "fiesta": "latest",
+    "fiesta": "^1.5.84",
     "jest": "^21.2.1",
     "jest-react-native": "^18.0.0",
     "react-native-camera-kit": "^5.3.26",
