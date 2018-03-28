@@ -15,6 +15,7 @@ addons:
       - g++-4.8
 
 install:
+  - npm run clean
   - npm install
 
 script:
