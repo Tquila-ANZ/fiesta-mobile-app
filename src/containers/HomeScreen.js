@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Platform, StyleSheet, Text, View, Image } from "react-native";
 
 //------------------------------------------- Fiesta
-import FiestaSuperGrid from "../../fiesta-packages/tq-anz-super-grid";
+import FiestaSuperGrid from "fiesta/tq-anz-super-grid";
 
 //--------------------------------------------------
 

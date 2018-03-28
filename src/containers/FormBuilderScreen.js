@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Platform, StyleSheet, Text, View } from "react-native";
 
 // Import fiesta via adding and running each component from the package.json
-import FiestaFormBuilder from "../../fiesta-packages/tq-anz-form-builder";
+import FiestaFormBuilder from "fiesta/tq-anz-form-builder";
 
 class FormBuilderScreen extends Component {
   render() {
